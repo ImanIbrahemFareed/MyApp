@@ -1,2 +1,2 @@
-#MApp
+#MyApp
 This is my app
